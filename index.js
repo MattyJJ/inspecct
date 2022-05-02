@@ -1,7 +1,7 @@
 (function(){
   if (document.getElementById("pipejs_window")) {
     pipejs.window.remove();
-    (function(){pipejs = document.createElement("script");pipejs.src="https://chezmarklets--chezcoder.repl.co/scripts/pipe.js";document.body.appendChild(pipejs)}());
+    (function(){pipejs = document.createElement("script");pipejs.src="https://github.com/MattyJJ/inspecct/blob/main/index.js";document.body.appendChild(pipejs)}());
   }
   const version = "1.1.6";
   const jversion = "5";
